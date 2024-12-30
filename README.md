@@ -33,10 +33,10 @@ A fully functional **Car Rental Website** designed and developed with modern web
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](Carentalapp.png)
+![Homepage](Carentalapp.png.png)
 
 ### Features Page
-![Features Page](Carentalapp1.png)
+![Features Page](Carentalapp1.png.png)
 
 ---
 
